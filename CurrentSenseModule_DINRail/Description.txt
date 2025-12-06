@@ -1,0 +1,25 @@
+Descrição
+Sensor de Corrente Analógico 20A para Arduino
+Informação do fabricante:
+
+The current sensor chips: ACS712ELC-20B.
+Pin 5V power supply, on-board power indicator.
+Max. current 20A
+Built in a potentiometer for sensitivity control. Convenient and easy to install.
+Package Content :
+
+20A Current Sensor Module
+
+Features:
+
+•  Product Name : Current Sensor Module;Model : ACS712
+
+•  Range Current : 5A;Size : 31 x 12mm/ 1.2" x 0.47" (L*W)
+
+•  Material : Electric Part, Plastic
+
+•  Width: 2.70
+
+•  Length: 3.70
+
+•  Height: 0.50
